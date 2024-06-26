@@ -10,6 +10,7 @@ const swiper1 = new Swiper(".slider-1", {
 
 
   },
+
 });
 
 const swiper2 = new Swiper(".slider-2", {

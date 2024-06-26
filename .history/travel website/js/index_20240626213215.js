@@ -8,6 +8,7 @@ hamburger.addEventListener("click", () => {
 
 
 
+
 // Discount Media
 const video = document.querySelector(".video");
 const button = document.querySelector(".video-control");
